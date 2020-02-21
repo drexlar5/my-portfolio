@@ -1,8 +1,8 @@
-# drexlar.com.ng/static
+# drexlar.com.ng/profile
 
 ## My Portfolio site built with React.
 
-[View Site](http://drexlar.com.ng/static)
+[View Site](http://drexlar.com.ng/profile)
 
 
 # The Data can be customised in the src/yourdata.js
