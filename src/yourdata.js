@@ -11,7 +11,7 @@ export default
                         'Terragon Group'
     ],
         //Contact Email
-        contactEmail:'drexlar@gmail.com',
+        contactEmail:'drexlar37@gmail.com',
         // Add Your About Text Here
         abouttext: [`I am a Fullstack Software Engineer experienced in building web and mobile technologies, working with databases and deploying applications to scale, I have worked on both fun and challenging projects that include building APIs to scale, creating awesome interfaces, working with complex queries for Databases and deploying/managing applications.`,
         `I have over the years gained knowledge of and used Micro-service architechture, Serveless(AWS lambda), Python, Javascript (NodeJS, expressJS, restify), RabbitMQ, Kafka, AWS SQS, MongoDB, Elasticsearch, Redis, MySql, AWS S3, Digitalocean, Docker.`],

@@ -12,7 +12,7 @@ class About extends Component {
                     <span>{data.abouttext.map(line => <p key={line}>{line}</p>)}</span>
             </Fade>
             </div>
-            {data.ShowAboutImage ? <img src={data.aboutImage} alt='about image'></img> : null}
+            {data.ShowAboutImage ? <img src={data.aboutImage} alt='about author'></img> : null}
             
 
         </div>  );
