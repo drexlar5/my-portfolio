@@ -70,7 +70,7 @@ export default
               service:'Software Engineer', // Add Your Service Type Here
              //Project Image - Add Your Project Image Here
               date: 'May 2019 - Present',
-              workDescription:[`Worked alongside other engineers that built a service that leverages USSD technology from MNOs to automatically tops up a users account when the user is low on airtime with the specified amount set by the user on subscription to the service, I joined the backend team to build the engine that handles all interactions.`,
+              workDescription:[`Worked alongside other engineers that built a service that leverages USSD technology from MNOs to automatically top up a user's account when the user is low on airtime with the specified amount set by the user on subscription to the service, I joined the backend team to build the engine that handles all interactions.`,
  
               `Led the team of engineers to develop, maintain and add features to a bulk SMS platform that schedules campaigns to run and does targeted marketing for millions of users.`,
               
