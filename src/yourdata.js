@@ -20,31 +20,31 @@ export default
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        projects:[
-           {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Savests', //Project Title - Add Your Project Title Here
-             service:'Mobile App', // Add Your Service Type Here
-            //Project Image - Add Your Project Image Here
-             imageSrc:"https://lh3.googleusercontent.com/Q_3q3teQYlvvO6oP7m49gGVFw7BKkMS2tj4QQY--hBLzXQpbENulgCI6pyvXvqb1nXA=s360-rw",
-             //Project URL - Add Your Project Url Here
-             url:'https://play.google.com/store/apps/details?id=com.savests.main'
-            },
+        //    {
+        //     id: 1,//DO NOT CHANGE THIS (Please)😅
+        //     title:'Savests', //Project Title - Add Your Project Title Here
+        //      service:'Mobile App', // Add Your Service Type Here
+        //     //Project Image - Add Your Project Image Here
+        //      imageSrc:"https://lh3.googleusercontent.com/Q_3q3teQYlvvO6oP7m49gGVFw7BKkMS2tj4QQY--hBLzXQpbENulgCI6pyvXvqb1nXA=s360-rw",
+        //      //Project URL - Add Your Project Url Here
+        //      url:'https://play.google.com/store/apps/details?id=com.savests.main'
+        //     },
             {
-                id: 2,//DO NOT CHANGE THIS (Please)😅
+                id: 1,//DO NOT CHANGE THIS (Please)😅
                 title: 'Apptiku',
                 service: 'Mobile App',
                 imageSrc: "https://lh3.googleusercontent.com/pgTmWCTASAxvpEcP2tYXN6DWGWK8rBI46NyRWkYPjY5bWJmIZrGna44DTw4Rrk3b0ng=s360-rw",
                 url: 'https://play.google.com/store/apps/details?id=com.agboolamichael.apptiku'
             },
             { 
-                id: 3,//DO NOT CHANGE THIS (Please)😅
+                id: 2,//DO NOT CHANGE THIS (Please)😅
                 title: 'Audio Converter',
                 service: 'Web App',
                 imageSrc: require('./images/audio-converter.png'),
                 url: 'https://radiant-garden-17845.herokuapp.com/'
             },
             {
-                id: 4,//DO NOT CHANGE THIS (Please)😅
+                id: 3,//DO NOT CHANGE THIS (Please)😅
                 title: 'drexlar.com.ng',
                 service: 'Interactive Site',
                 imageSrc: require('./images/drexlar.com.ng.png'),
