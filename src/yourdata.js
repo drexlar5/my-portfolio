@@ -18,7 +18,7 @@ export default {
     `I have over the years gained knowledge of and used micro-services, APIs, AWS, Digitalocean, GCP, Jenkins, Docker, Kubernetes, circleCI, queuing systems (RabbitMQ, Kafka, SQS), Typescript, JavaScript, PHP, ReactJs, VueJs, NodeJS, expressJs, Python, Mocha, Chai, Jest, Sinon, postgreSQL, mySQL, mongoDB, Redis and Elasticsearch.`,
   ],
   aboutImage:
-    "https://instagram.flos1-1.fna.fbcdn.net/v/t51.2885-15/e35/65034834_642923079518296_2020613577682943144_n.jpg?_nc_ht=instagram.flos1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=vDL8yJ7YRAcAX9SmA_s&oh=5b584d05eb50a587be7b41cf7f9bb04b&oe=5EC8BA99",
+    "https://drexlar5.github.io/images/profile.png",
   //Change This To Hide The Image of About Section (True Or False)
   ShowAboutImage: true, //true or false (Change Here)
   // Change Projects Here
