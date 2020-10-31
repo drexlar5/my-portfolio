@@ -8,7 +8,7 @@ export default {
     //Line 2 For Header
     "Software Engineer at",
     //Line 3 For Header
-    "Blusalt Financial Systems",
+    "Blusalt Financial Service",
   ],
   //Contact Email
   contactEmail: "drexlar37@gmail.com",
