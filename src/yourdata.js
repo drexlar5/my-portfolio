@@ -8,7 +8,7 @@ export default {
     //Line 2 For Header
     "Software Engineer at",
     //Line 3 For Header
-    "Terragon Group",
+    "Blusalt Financial Systems",
   ],
   //Contact Email
   contactEmail: "drexlar37@gmail.com",
@@ -146,7 +146,7 @@ export default {
       id: 5, //DO NOT CHANGE THIS (Please)😅
       title: "Naikobs",
       service: "Software Engineer",
-      date: "Nov 2015 - August 2016",
+      date: "Aug 2016 - December 2017",
       workDescription: [
         `Designed and developed websites, web plugins, payment systems, school management systems and android applications.`,
 
