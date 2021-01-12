@@ -92,28 +92,37 @@ export default {
   works: [
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
+      title: "Eze wholesale",
+      service: "Senior Software Engineer",
+      date: "Nov 2020 - Present",
+      workDescription: [
+        `Building a B2B marketplace allowing buyers & sellers to trade electronics in wholesale quantities with real-time market data.`,
+      ]
+    },
+    {
+      id: 2, //DO NOT CHANGE THIS (Please)😅
       title: "Blusalt Financial Service",
       service: "Software Engineer",
       date: "June 2020 - Present",
       workDescription: [
         `Leading a team to build an integrated messaging (sms and whatsapp) and auto-topup platform that uses machine learning and big data analytics to provide its users with the optimal sms and airtime topup experience.`,
 
-        `Building an integrated magazine and newspaper platform that helps users get all the information they need on one platform.`,
-      ],
-      url: "https://radiant-garden-17845.herokuapp.com/",
-    },
-    {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "BGPC",
-      service: "Senior Software Engineer",
-      date: "April 2020 - Present",
-      workDescription: [
-        `Working with other engineers to develop and maintain a web platform that supports entrepreneurs who wish to grow their projects.`,
-      ],
-      url: "https://radiant-garden-17845.herokuapp.com/",
+        `Built an integrated magazine and newspaper platform that helps users get all the information they need on one platform.`,
+
+        `Building an integrated identity and anti-money laundry detection platform for Africa.`
+      ]
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
+      title: "BGPC",
+      service: "Senior Software Engineer",
+      date: "April 2020 - Nov 2020",
+      workDescription: [
+        `Working with other engineers to develop and maintain a web platform that supports entrepreneurs who wish to grow their projects.`,
+      ]
+    },
+    {
+      id: 4, //DO NOT CHANGE THIS (Please)😅
       title: "Terragon Group", //Project Title - Add Your Project Title Here
       service: "Software Engineer", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -126,24 +135,20 @@ export default {
         `Worked with other engineers to build a service that manages user rewards and exposes APIs that allow clients get airtime top-up.`,
 
         `Wrote an encryption library to be used by various teams in the organization.`,
-      ],
-      //Project URL - Add Your Project Url Here
-      url: "https://play.google.com/store/apps/details?id=com.savests.main",
+      ]
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 5, //DO NOT CHANGE THIS (Please)😅
       title: "Sone Aeon Technologies",
       service: "Software Engineer",
       date: "Jan 2018 - April 2019",
       workDescription: [
         `Designed and developed various websites ranging from simple websites to e-commerce site.`,
         `Developed mobile applications for clients (hybrid and native).`,
-      ],
-      url:
-        "https://play.google.com/store/apps/details?id=com.agboolamichael.apptiku",
+      ]
     },
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
+      id: 6, //DO NOT CHANGE THIS (Please)😅
       title: "Naikobs",
       service: "Software Engineer",
       date: "Aug 2016 - December 2017",
@@ -151,8 +156,7 @@ export default {
         `Designed and developed websites, web plugins, payment systems, school management systems and android applications.`,
 
         `Modelled and designed a smoke detection system to prevent fire outbreaks in homes and offices.`,
-      ],
-      url: "https://radiant-garden-17845.herokuapp.com/",
+      ]
     },
     //     {
     //         id: 4,//DO NOT CHANGE THIS (Please)😅
@@ -164,15 +168,15 @@ export default {
 
     /*
  
-                     If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                 ,{
-                 id: 5,
-                 title: 'Project Five',
-                 service: 'Something Amazing',
-                 workDescription: "",
-                 url: ''
-             }
-                 */
+      If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
+      ,{
+        id: 5,
+        title: 'Project Five',
+        service: 'Something Amazing',
+        workDescription: "",
+        url: ''
+      }
+    */
   ],
   social: [
     // Add Or Remove The Link Accordingly
