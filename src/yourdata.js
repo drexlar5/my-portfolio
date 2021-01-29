@@ -90,15 +90,15 @@ export default {
     */
   ],
   works: [
-    {
-      id: 1, //DO NOT CHANGE THIS (Please)😅
-      title: "Eze wholesale",
-      service: "Senior Software Engineer",
-      date: "Nov 2020 - Present",
-      workDescription: [
-        `Building a B2B marketplace allowing buyers & sellers to trade electronics in wholesale quantities with real-time market data.`,
-      ]
-    },
+    // {
+    //   id: 1, //DO NOT CHANGE THIS (Please)😅
+    //   title: "Eze wholesale",
+    //   service: "Senior Software Engineer",
+    //   date: "Nov 2020 - Present",
+    //   workDescription: [
+    //     `Building a B2B marketplace allowing buyers & sellers to trade electronics in wholesale quantities with real-time market data.`,
+    //   ]
+    // },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
       title: "Blusalt Financial Service",
