@@ -1,39 +1,21 @@
 export default {
-  //(Please Do Not Remove The comma(,) after every variable)
-  //Change The Website Template
   name: "Drexlar",
   headerTagline: [
-    //Line 1 For Header
     "Hi 👋 You found me! I am Michael Agboola.",
-    //Line 2 For Header
     "Software Engineer at",
-    //Line 3 For Header
-    "Blusalt Financial Service",
+    "Amitree",
   ],
-  //Contact Email
   contactEmail: "drexlar37@gmail.com",
-  // Add Your About Text Here
   abouttext: [
     `I am a Fullstack Software Engineer experienced in building web and mobile technologies, working with databases and deploying applications to scale, I have worked on both fun and challenging projects that include building APIs to scale, creating awesome interfaces, working with complex queries for Databases and deploying/managing applications.`,
-    `I have over the years gained knowledge of and used micro-services, APIs, AWS, Digitalocean, GCP, Jenkins, Docker, Kubernetes, circleCI, queuing systems (RabbitMQ, Kafka, SQS), Typescript, JavaScript, PHP, ReactJs, VueJs, NodeJS, expressJs, Python, Mocha, Chai, Jest, Sinon, postgreSQL, mySQL, mongoDB, Redis and Elasticsearch.`,
+    `I have over the years gained knowledge of and used micro-services, APIs, AWS, Digitalocean, GCP, Jenkins, Docker, Kubernetes, circleCI, queuing systems (RabbitMQ, Kafka, SQS), Typescript, JavaScript, PHP, Ruby on Rails, ReactJs, VueJs, NodeJS, expressJs, Python, Mocha, Chai, Jest, Sinon, postgreSQL, mySQL, mongoDB, Redis and Elasticsearch.`,
   ],
   aboutImage:
     "https://drexlar5.github.io/images/profile.png",
-  //Change This To Hide The Image of About Section (True Or False)
-  ShowAboutImage: true, //true or false (Change Here)
-  // Change Projects Here
+  ShowAboutImage: true,
   projects: [
-    //    {
-    //     id: 1,//DO NOT CHANGE THIS (Please)😅
-    //     title:'Savests', //Project Title - Add Your Project Title Here
-    //      service:'Mobile App', // Add Your Service Type Here
-    //     //Project Image - Add Your Project Image Here
-    //      imageSrc:"https://lh3.googleusercontent.com/Q_3q3teQYlvvO6oP7m49gGVFw7BKkMS2tj4QQY--hBLzXQpbENulgCI6pyvXvqb1nXA=s360-rw",
-    //      //Project URL - Add Your Project Url Here
-    //      url:'https://play.google.com/store/apps/details?id=com.savests.main'
-    //     },
     {
-      id: 1, //DO NOT CHANGE THIS (Please)😅
+      id: 1, 
       title: "Apptiku",
       service: "Mobile App",
       imageSrc:
@@ -42,21 +24,21 @@ export default {
         "https://play.google.com/store/apps/details?id=com.agboolamichael.apptiku",
     },
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
+      id: 2, 
       title: "Audio Converter",
       service: "Web App",
       imageSrc: require("./images/audio-converter.png"),
       url: "https://radiant-garden-17845.herokuapp.com/",
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
+      id: 3, 
       title: "drexlar.com.ng",
       service: "Interactive Site",
       imageSrc: require("./images/drexlar.com.ng.png"),
       url: "https://drexlar.com.ng",
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 4, 
       title: "Simple React Ecommerce App ",
       service: "Web App",
       imageSrc: require("./images/ezewholesale.png"),
@@ -64,46 +46,39 @@ export default {
     },
 
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
+      id: 5, 
       title: "Vue Emoji Color Picker ",
       service: "Web App",
       imageSrc: require("./images/color-picker.png"),
       url: "http://emoji-color-picker.herokuapp.com/",
     },
     {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
+      id: 6, 
       title: "Newspaper Stand",
       service: "Web App",
       imageSrc: require("./images/tns.png"),
       url: "https://festive-keller-4a3f5a.netlify.app/",
     },
-    /*
-
-        If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-    ,{
-        id: 5,
-        title: 'Project Five',
-        service: 'Something Amazing',
-        imageSrc: "",
-        url: ''
-    }
-    */
   ],
   works: [
-    // {
-    //   id: 1, //DO NOT CHANGE THIS (Please)😅
-    //   title: "Eze wholesale",
-    //   service: "Senior Software Engineer",
-    //   date: "Nov 2020 - Present",
-    //   workDescription: [
-    //     `Building a B2B marketplace allowing buyers & sellers to trade electronics in wholesale quantities with real-time market data.`,
-    //   ]
-    // },
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
+      id: 1, 
+      title: "Amitree",
+      service: "Senior Software Engineer",
+      date: "March 2021 - Present",
+      workDescription: [
+        `Lead a team to work on initiatives to integrate new features  that involved real time google smart folder previews when creating a folder and added enhanced onboarding walkthrough.`,
+
+        `Researched about and implemented an algorithm to de-duplicate keywords found in emails that are used in smart folder creation.`,
+
+        `Instrumented and worked on system upgrades for infrastructure (heroku) and software (emberJS version upgrade).`
+      ]
+    },
+    {
+      id: 2, 
       title: "Blusalt Financial Service",
       service: "Software Engineer",
-      date: "June 2020 - Present",
+      date: "June 2020 - March 2021",
       workDescription: [
         `Leading a team to build an integrated messaging (sms and whatsapp) and auto-topup platform that uses machine learning and big data analytics to provide its users with the optimal sms and airtime topup experience.`,
 
@@ -113,7 +88,7 @@ export default {
       ]
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
+      id: 3, 
       title: "BGPC",
       service: "Senior Software Engineer",
       date: "April 2020 - Nov 2020",
@@ -122,10 +97,9 @@ export default {
       ]
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Terragon Group", //Project Title - Add Your Project Title Here
-      service: "Software Engineer", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+      id: 4, 
+      title: "Terragon Group", 
+      service: "Software Engineer",
       date: "May 2019 - April 2020",
       workDescription: [
         `Worked with other engineers to build a service that leverages USSD technology from MNOs to automatically top up a user's account when the user is low on airtime with the specified amount set by the user on subscription to the service, I joined the backend team to build the engine that handles all interactions.`,
@@ -138,7 +112,7 @@ export default {
       ]
     },
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
+      id: 5, 
       title: "Sone Aeon Technologies",
       service: "Software Engineer",
       date: "Jan 2018 - April 2019",
@@ -148,7 +122,7 @@ export default {
       ]
     },
     {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
+      id: 6, 
       title: "Naikobs",
       service: "Software Engineer",
       date: "Aug 2016 - December 2017",
@@ -158,28 +132,8 @@ export default {
         `Modelled and designed a smoke detection system to prevent fire outbreaks in homes and offices.`,
       ]
     },
-    //     {
-    //         id: 4,//DO NOT CHANGE THIS (Please)😅
-    //         title: 'Project Four',
-    //         service: 'Branding',
-    //         workDescription: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-    //         url: 'http://chetanverma.com/'
-    //    }
-
-    /*
- 
-      If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-      ,{
-        id: 5,
-        title: 'Project Five',
-        service: 'Something Amazing',
-        workDescription: "",
-        url: ''
-      }
-    */
   ],
   social: [
-    // Add Or Remove The Link Accordingly
     { name: "Github", url: "https://github.com/drexlar5" },
     {
       name: "LinkedIn",
@@ -189,9 +143,5 @@ export default {
       name: "Twitter",
       url: "https://twitter.com/drexlar01",
     },
-    // {
-    //     name: 'Instagram',
-    //     url: 'https://www.instagram.com/cv.uidesign/'
-    // }
   ],
 };
