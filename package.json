@@ -9,6 +9,10 @@
     "react-scripts": "3.0.1",
     "react-scroll": "^1.7.12"
   },
+  "engines": {
+    "node": "12.x",
+    "yarn": "1.22.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
