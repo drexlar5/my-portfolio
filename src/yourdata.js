@@ -64,7 +64,7 @@ export default {
     {
       id: 1, 
       title: "Amitree",
-      service: "Senior Software Engineer",
+  service: "Senior Software Engineer.",
       date: "March 2021 - Present",
       workDescription: [
         `Lead a team to work on initiatives to integrate new features  that involved real time google smart folder previews when creating a folder and added enhanced onboarding walkthrough.`,
